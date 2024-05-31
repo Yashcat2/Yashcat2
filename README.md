@@ -12,11 +12,13 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Yashodha Gunawardhana, Undergraduate of Bsc. Comuputer Engineering from University of Ruhuna, Sri Lanka.
+  🔗 Hi, I'm Yashodha Gunawardhana 😇
+  <br>
+  📚  An Undergraduate of Bsc. Comuputer Engineering from University of Ruhuna, Sri Lanka.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Mern Stack
+  📌 I’m currently learning how to build E-Commerce Website with Mern Stack
   <br>
   📫 How to reach me: <a href="mailto: yashodhakgunawardhana@gmail.com">yashodhakgunawardhana@gmail.com</a>
 </p>
