@@ -9,13 +9,12 @@
                     <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+There!+👋;This+is+Yashodha+Gunawardhana...;Nice+to+meet+you!&center=true&size=30;"
                         alt="Headline" />
                 </div>
-                <br />
             </summary>
         </ul>
     </div>
      <br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <br /><br />
+    
 
 
 <h5 align="center">
