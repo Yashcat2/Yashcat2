@@ -13,8 +13,9 @@
             </summary>
         </ul>
     </div>
-    <h1 align="center">
-</h1>
+     <br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br /><br />
 
 
 <h5 align="center">
@@ -35,7 +36,9 @@
   📫 How to reach me: <a href="mailto: yashodhakgunawardhana@gmail.com">yashodhakgunawardhana@gmail.com</a>
 </p>
 
-<hr>
+ <br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br /><br />
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -59,8 +62,9 @@
   <code><img title="MySQL" height="25" src="mysql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
 </p>
-<hr>
-
+ <br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br /><br />
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -81,8 +85,9 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashcat2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<hr>
-
+ <br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br /><br />
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100" align="center">
