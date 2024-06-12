@@ -1,11 +1,21 @@
-<br /><br />
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <br /><br />
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yash+Gunawrdhana;Nice+to+meet+you!&center=true&size=30">
-  </a>
+ <div align="center">
+        <ul align="center">
+            <img align="center"
+                src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
+                width="100px" />
+            <summary>
+                <br />
+                <div align=center>
+                    <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+There!+👋;This+is+Yashodha+Gunawardhana...;Nice+to+meet+you!&center=true&size=30;"
+                        alt="Headline" />
+                </div>
+                <br />
+            </summary>
+        </ul>
+    </div>
+    <h1 align="center">
 </h1>
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yashodha-gunawardhana-217082219/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
