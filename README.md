@@ -1,4 +1,6 @@
-
+<br /><br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br /><br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yash+Gunawrdhana;Nice+to+meet+you!&center=true&size=30">
