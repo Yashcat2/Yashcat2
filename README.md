@@ -1,17 +1,13 @@
  <div align="center">
-        <ul align="center">
-            <img align="center"
-                src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
-                width="100px" />
-            <summary>
-                <br />
-                <div align=center>
-                    <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+There!+👋;This+is+Yashodha+Gunawardhana...;Nice+to+meet+you!&center=true&size=30;"
-                        alt="Headline" />
-                </div>
-            </summary>
-        </ul>
+    <img align="center"
+        src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"
+        width="100px" />
+    <br />
+    <br/>
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%4460f3&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+There!+👋;This+is+Yashodha+Gunawardhana...;Nice+to+meet+you!&center=true&size=30;" alt="Headline" />
     </div>
+</div>
      <br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
@@ -90,7 +86,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100" align="center">
-  <a align="left" href="https://github.com/Yashcat2/Currency-Convertor" title="Currency-Convertor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashcat2&repo=Currency-Convertor&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Yashcat2/Ecommerce-Website-FrontEnd" title=" Ecommerce-Website-FrontEnd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashcat2&repo=Ecommerce-Website-FrontEnd&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Yashcat2/Currency-Convertor" title="Currency-Convertor"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashcat2&repo=Currency-Convertor&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Yashcat2/Laptop_Store" title="Laptop_Store"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Yashcat2&repo=Laptop_Store&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
