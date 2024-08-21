@@ -56,6 +56,13 @@
   <code><img title="GitHub" height="25" src="github.svg"></code>
   <code><img title="MySQL" height="25" src="mysql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
+
+  <code><img title="Spring" height="25" src="images/spring.svg"></code>
+
+  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+  <code><img title="Kotlin" height="25" src="images/kotlin.svg"></code>
+
 </p>
  <br />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
