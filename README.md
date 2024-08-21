@@ -57,9 +57,10 @@
   <code><img title="MySQL" height="25" src="mysql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
   <code><img title="Spring" height="25" src="spring.svg"></code>
-  <code><img title="MongoDB" height="25" src="mongodb.svg"></code>
   <code><img title="Linux" height="25" src="linux.svg"></code>
   <code><img title="Kotlin" height="25" src="kotlin.svg"></code>
+  <code><img title="MongoDB" height="25" src="mongodb.svg"></code>
+
 
 </p>
  <br />
