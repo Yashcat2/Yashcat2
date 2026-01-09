@@ -26,7 +26,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📌 I’m currently learning how to build E-Commerce Website with Mern Stack
+  📌 I’m currently learning how to build E-Commerce Website using Django
   <br>
   📫 How to reach me: <a href="mailto: yashodhakgunawardhana@gmail.com">yashodhakgunawardhana@gmail.com</a>
 </p>
